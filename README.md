@@ -1,3 +1,3 @@
 # first
 My first git repository!
-Author - Prayag Mistry
+Author - Prayag H. Mistry
